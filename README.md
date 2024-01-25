@@ -96,13 +96,16 @@ void callback(char* topic, byte* payload, unsigned int length) {
 }
 
 2- Instalar las librerias que se requieren 
-
+![]()
 3- Realizar las conexiones entre el Led y la tarjeta ESP32
-
+![]()
 4-En Node red colocaremos los siquientes bloques que se requieren  y nos aseguraremos de tener el mismo IP que en el codigo de WOKWI ademas de colocar correctamente el nombre del topico
-
+![]()
+![]()
+![]()
+![]()
 
 5- Hacemos correr la programacion en WOKWI asegurandonos que se conecto de manera correcta. Finalmente el NODE-RED y la ESP32 dentro de WOKWI arrojaran los resultados deseados:
-
+![]()
 
 
